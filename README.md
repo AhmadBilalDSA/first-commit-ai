@@ -55,7 +55,7 @@ Tiny, tested teaching repos — starter → mid. Ship one, read it, then climb:
 | Literacy (Sinhala) | [jay-ai-sinhala](https://github.com/primeodin/jay-ai-sinhala) | Friends 70+ learning GitHub + AI — [live](https://primeodin.github.io/jay-ai-sinhala/) |
 | Systems DIY | [camera-selector](https://github.com/primeodin/camera-selector) | NVR/Frigate camera planning — [live](https://primeodin.github.io/camera-selector/) |
 
-Weekday cadence, in order: chat CLI → RAG → tokenizer (building now) → tool agent → prompt lab → embeddings → vision → memory → shop-skill explainer.
+Weekday cadence, in order: chat CLI → RAG → tokenizer (shipped) → tool agent → prompt lab → embeddings → vision → memory → shop-skill explainer.
 
 Profile forge: [github.com/primeodin](https://github.com/primeodin)
 
