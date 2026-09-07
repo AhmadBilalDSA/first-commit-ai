@@ -46,8 +46,8 @@ python -m first_commit_ai "Explain Git remotes like a shop dad."
 Scoped tickets live in [Issues](https://github.com/primeodin/first-commit-ai/issues). Open contribution ideas:
 
 - **#3** — [`CONTRIBUTING.md`](https://github.com/primeodin/first-commit-ai/issues/3) for first-timers (fork → test → PR map)
-- **#4** — [`--json` CLI output](https://github.com/primeodin/first-commit-ai/issues/4) for reply + mock/real mode
-- **#5** — [Ollama / local server walkthrough](https://github.com/primeodin/first-commit-ai/issues/5) under `docs/`
+- **#5** — [`--json` CLI output](https://github.com/primeodin/first-commit-ai/issues/5) for reply + mock/real mode
+- **#6** — [Ollama / local server walkthrough](https://github.com/primeodin/first-commit-ai/issues/6) under `docs/`
 
 Claim one in a comment, ask questions in the thread, ship it. Docs count.
 
