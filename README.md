@@ -41,6 +41,16 @@ python -m first_commit_ai "Explain Git remotes like a shop dad."
 2. Point `OPENAI_BASE_URL` at Ollama or another compatible server  
 3. Add a second command (e.g. `--system "..."`) and a test for it — see [good first issues](https://github.com/primeodin/first-commit-ai/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
+## Help / good first issues
+
+Scoped tickets live in [Issues](https://github.com/primeodin/first-commit-ai/issues). Open contribution ideas:
+
+- **#3** — [`CONTRIBUTING.md`](https://github.com/primeodin/first-commit-ai/issues/3) for first-timers (fork → test → PR map)
+- **#4** — [`--json` CLI output](https://github.com/primeodin/first-commit-ai/issues/4) for reply + mock/real mode
+- **#5** — [Ollama / local server walkthrough](https://github.com/primeodin/first-commit-ai/issues/5) under `docs/`
+
+Claim one in a comment, ask questions in the thread, ship it. Docs count.
+
 ## Daily builds series
 
 Tiny, tested teaching repos — starter → mid. Ship one, read it, then climb:
