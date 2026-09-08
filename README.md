@@ -12,6 +12,7 @@ cd first-commit-ai
 pip install -e ".[dev]"
 pytest
 python -m first_commit_ai --mock "hi"
+python -m first_commit_ai --mock --json "hi"
 ```
 
 You should see a `[mock]` reply. That means the wiring works before you spend a token.
