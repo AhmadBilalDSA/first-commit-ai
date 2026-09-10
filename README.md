@@ -4,7 +4,7 @@
 
 Karpathy energy for regular people: **one idea**, runnable in a minute, tests that pass with no API key.
 
-## 60-second start
+## 60-second start, let do it right now 
 
 ```bash
 git clone https://github.com/primeodin/first-commit-ai.git
