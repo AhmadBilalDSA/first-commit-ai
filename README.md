@@ -76,3 +76,8 @@ Most "AI starter" repos bury you under frameworks. This one is small enough to r
 ## License
 
 MIT
+.
+
+
+
+
